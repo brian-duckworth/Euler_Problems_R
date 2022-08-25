@@ -1,2 +1,3 @@
 # Euler_Problems_R
-My and sometimes found solutions to the Euler Problems using R.
+
+My solutions, and sometimes found solutions where indicatd, to the Euler Problems using R.
